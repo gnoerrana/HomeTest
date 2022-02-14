@@ -1,3 +1,5 @@
+Requirement :
+yarn package manager https://classic.yarnpkg.com/en/docs/install#mac-stable
 
 # `yarn`
 
